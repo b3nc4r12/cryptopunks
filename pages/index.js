@@ -11,7 +11,7 @@ const Home = ({ punkListData }) => {
   return (
     <Container>
       <Head>
-        <title>CP Punks</title>
+        <title>CryptoPunks</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
